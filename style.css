@@ -339,6 +339,12 @@
 .fa{
     width: 15px;
 }
+.link{
+    color: blue;
+}
+.emailblock{
+    margin-top: 10px;
+}
 .footeremail{
     width: 185px;
     background-color: black;
